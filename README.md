@@ -5,6 +5,4 @@
 
 #Salvando modificações
 
-*comando
-
-*comando sempre
+*Comando git pull

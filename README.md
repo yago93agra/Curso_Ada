@@ -4,4 +4,7 @@
 
 
 #Salvando modificações
+
 *comando
+
+*comando sempre
